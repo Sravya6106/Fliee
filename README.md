@@ -1,7 +1,7 @@
 ✈️ Flight Booking System
 A dynamic web application developed using Java, JSP, Servlets, JDBC and MySQL that enables users to register, login, search flights, and manage bookings. The system also provides an admin dashboard for managing users and passenger details.
 
-🚀 Features
+🚀 Features.
 User Registration and Login Authentication
 Flight Booking and Cancellation
 View Booking History
